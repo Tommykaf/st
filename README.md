@@ -32,3 +32,10 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+Patches
+-------
+* clipboard
+* xresources
+* alpha
+* scrollback
+* ligatures
