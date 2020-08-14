@@ -39,3 +39,4 @@ Patches
 * alpha
 * scrollback
 * ligatures
+* font2 (for emoji support remember to install `libxft-bgra`)
