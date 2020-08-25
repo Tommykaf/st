@@ -41,3 +41,8 @@ Patches
 * ligatures
 * font2 (for emoji support remember to install `libxft-bgra`)
 * anysize
+
+Fonts
+-----
+Font1 - FiraCode Nerd Font
+Font2 - twemoji

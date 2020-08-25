@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode:style=Retina:pixelsize=18:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font:style=Retina:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"Twemoji:style=Regular:pixelsize=14:antialias=true:autohint=true"
