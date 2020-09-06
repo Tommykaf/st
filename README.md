@@ -44,5 +44,6 @@ Patches
 
 Fonts
 -----
-Font1 - FiraCode Nerd Font
-Font2 - twemoji
+Main Font - FiraCode Nerd Font
+Hebrew Font - Cousine
+Emoji Font - twemoji

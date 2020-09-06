@@ -7,7 +7,8 @@
  */
 static char *font = "FiraCode Nerd Font:style=Retina:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
-static char *font2[] = {
+static char *font2[] = { 
+    "Cousine:style=Regular:pixelsize=18:antialias=true:autohint=true",
 	"Twemoji:style=Regular:pixelsize=14:antialias=true:autohint=true"
 };
 
